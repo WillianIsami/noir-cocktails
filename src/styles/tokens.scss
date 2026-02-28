@@ -1,0 +1,21 @@
+:root {
+  color-scheme: dark;
+
+  --color-bg: #090b0f;
+  --color-surface: #13161d;
+  --color-surface-elevated: #1a1d25;
+  --color-text: #f3ede3;
+  --color-muted: rgba(235, 222, 202, 0.72);
+  --color-accent: #dba56a;
+  --color-accent-soft: #e6bf87;
+  --color-danger: #de7064;
+
+  --font-heading: 'Fraunces', 'Iowan Old Style', 'Times New Roman', serif;
+  --font-body: 'Manrope', 'Avenir Next', 'Segoe UI', sans-serif;
+
+  --shadow-soft: 0 16px 34px rgba(0, 0, 0, 0.35);
+  --shadow-strong: 0 24px 46px rgba(0, 0, 0, 0.4);
+
+  --radius-lg: 1.1rem;
+  --radius-md: 0.8rem;
+}
